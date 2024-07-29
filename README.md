@@ -2,13 +2,6 @@
 
 A modern e-commerce platform built with React, offering a dynamic and responsive shopping experience. Features include seamless product browsing, making it perfect for developers looking to integrate React into their e-commerce solutions.
 
-## **Features**
-
-- **Responsive Design**: Ensures the platform looks and functions well on all devices.
-- **Product Browsing**: Allows users to easily browse products by categories and search functionality.
-- **User Authentication**: Provides secure user login and registration.
-- **Cart and Checkout**: Includes a shopping cart and secure checkout process.
-- **Admin Panel**: Enables administrators to manage products, categories, and user orders.
 
 ## **Project Setup and Usage**
 
