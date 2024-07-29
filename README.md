@@ -46,15 +46,6 @@ A modern e-commerce platform built with React, offering a dynamic and responsive
 
     This command creates a production build in the `build` folder.
 
-### **Configuration**
-
-- **Environment Variables**: Set environment variables for API keys, database connections, and other sensitive data.
-- **API Integration**: Ensure API endpoints for product and user management are correctly configured.
-
-### **Example CSV Files**
-
-- **products.csv**: Contains product information for bulk upload or management.
-- **users.csv**: Maps user data for testing purposes.
 
 ## **License**
 
