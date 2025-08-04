@@ -1,6 +1,6 @@
 /* 
 https://www.iconfinder.com/icons/1243689/call_phone_icon
-Creative Commons (Attribution 3.0 Unported);
+Creative Commons (Attribution 3.0 Unported); hello
 https://www.iconfinder.com/Makoto_msk */
 
 export const storeProducts = [
